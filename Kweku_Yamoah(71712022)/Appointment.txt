@@ -1,0 +1,5 @@
+Kweku,Yamoah,Miss. Faith Akos,Monday,16:00
+Kojo,Armah,Miss. Chinwe Igbebu,Wednesday,13:30
+Christabel,Ekeh,Mr. Elvis Okoh,Friday,14:30
+Christabel,Ekeh,Mrs. Leonette Dapaah,Tuesday,15:00
+Karl,Lemfon,Mr. Kweku Yamoah,Friday,16:30

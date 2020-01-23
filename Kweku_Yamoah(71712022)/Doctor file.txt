@@ -1,0 +1,6 @@
+Mr. John Alhassan,[['Tuesday', 'Thursday']
+Mr. Kweku Yamoah,[['Monday', 'Friday']
+Miss. Chinwe Igbebu,[['Wednesday', 'Friday']
+Miss. Faith Akos,[['Monday', 'Thursday']
+Mrs. Leonette Dapaah,[['Tuesday', 'Friday']
+Mr. Elvis Okoh,[['Thursday','Friday']
